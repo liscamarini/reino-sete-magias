@@ -10,7 +10,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://github.com/liscamarini"
+            href="https://github.com/liscamarini/reino-sete-magias"
             target="_blank"
             rel="noopener noreferrer"
           >
